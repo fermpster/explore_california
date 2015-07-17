@@ -1,0 +1,8 @@
+#This is a comment 
+# * is a wildcard the following ignores all .txt files
+# *.txt
+# set up some rules:
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
